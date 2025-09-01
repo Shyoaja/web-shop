@@ -2,7 +2,7 @@
   "name": "shyo-shop",
   "version": "1.0.0",
   "description": "Website pemesanan hosting untuk ShyoID",
-  "main": "script.js",
+  "main": "index.html",
   "scripts": {
     "start": "parcel index.html",
     "build": "parcel build index.html --dist-dir dist",
